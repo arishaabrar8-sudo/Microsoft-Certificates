@@ -1,0 +1,21 @@
+# Microsoft Learn Achievements
+
+## ☁️ Describe Cloud Computing
+
+**Platform:** Microsoft Learn  
+**Status:** ✅ Completed
+
+### Skills Gained
+- Cloud computing fundamentals
+- Cloud service models (IaaS, PaaS, SaaS)
+- Cloud deployment models (Public, Private, Hybrid)
+- Benefits of cloud computing
+
+### Achievement
+https://learn.microsoft.com/api/achievements/share/en-us/ArishaAbrar-0381/8VP3JFNW?sharingId=A8EA5E4C954090E3
+
+---
+
+## About
+
+I am continuously expanding my knowledge in **Cloud Computing, Artificial Intelligence, Machine Learning, and Web Development** through Microsoft Learn. This repository documents my learning journey and achievements.
